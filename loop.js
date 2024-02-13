@@ -6,3 +6,9 @@
 //     console.log(i)
 //     i+=1
 // }
+var rl = require("readline-sync")
+var shouldlooprun = true
+
+while(shouldlooprun){
+    var
+}
